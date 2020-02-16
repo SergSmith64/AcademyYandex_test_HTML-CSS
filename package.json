@@ -1,0 +1,22 @@
+{
+  "name": "academyyandex_test_html-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergSmith64/AcademyYandex_test_HTML-CSS.git"
+  },
+  "author": "Sergei Kuznetcov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergSmith64/AcademyYandex_test_HTML-CSS/issues"
+  },
+  "homepage": "https://github.com/SergSmith64/AcademyYandex_test_HTML-CSS#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6"
+  }
+}
